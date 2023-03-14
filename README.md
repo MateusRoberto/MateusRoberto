@@ -5,7 +5,7 @@
 ##
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="JAVA" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="JAVA" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   
  </div>
   
