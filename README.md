@@ -5,7 +5,7 @@
 ##
 Programming languages
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="HTML" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original-wordmark.svg">
   
  </div>
   
