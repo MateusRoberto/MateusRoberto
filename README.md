@@ -1,8 +1,7 @@
 - ## Hi I'm Mateus Roberto
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusRoberto&show_icons=true&theme=dracula)
-[![Top Langs] <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=MateusRoberto&layout=compact&theme=dracula">
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRoberto&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 ##
 Programming languages
 <div style="display: inline_block"><br>
