@@ -1,7 +1,7 @@
 - ## Hi I'm Mateus Roberto
 
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=MateusRoberto&show_icons=true&theme=dracula&count_private=true">
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=MateusRoberto&layout=compact&theme=dracula">
+    <img height="100em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=MateusRoberto&layout=compact&theme=dracula">
 
 <div style="display: inline_block"><br>
   <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
