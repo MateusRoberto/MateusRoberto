@@ -2,8 +2,7 @@
 
 <div>
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=MateusRoberto&show_icons=true&theme=dracula&count_private=true">
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=MateusRoberto&layout=compact&theme=dracula">
-</div>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRoberto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
