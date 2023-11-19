@@ -7,7 +7,7 @@
 </div>
 <br>
 
-  <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
+  <img height='50em' src="https://cdn.worldvectorlogo.com/logos/javascript.svg">
   
  </div>
   
