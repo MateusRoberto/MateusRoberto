@@ -7,7 +7,8 @@
 </div>
 <br>
 
-  <img height='50em' src="https://cdn.worldvectorlogo.com/logos/javascript.svg">
+  <img align="center" alt="Mat-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Mat-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/
   
  </div>
   
