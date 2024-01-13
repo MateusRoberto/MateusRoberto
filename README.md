@@ -8,7 +8,7 @@
 <br>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Mat-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"
+  <img align="center" alt="Mat-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   
   
  </div>
