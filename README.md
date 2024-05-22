@@ -37,7 +37,7 @@
  <a href="https://www.linkedin.com/in/mateus-roberto-509522264/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:mateusroberto2609@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
- <div>
+ <div align="center">
 
  <img align="center" alt="Mat-Js" height="200em" src="https://i.pinimg.com/originals/48/e7/92/48e792b6764536c965d0acd8a222bf57.gif"/>
 
